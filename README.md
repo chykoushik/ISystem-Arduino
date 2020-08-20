@@ -9,6 +9,6 @@ The WHO surveyed and research in 39 countries says that there is about 245 milli
 
 ## Installation:
 1. Buy the desired component as described in the detailed report.
-2. Buy theSelect the prototype you want to run and follow the visual scenario.
+2. Select the prototype you want to run and follow the visual scenario.
 3. Download the code.
-4. Insert the code in. Compile, Then upload.
+4. Insert the code, Compile, Then upload.
